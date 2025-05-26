@@ -63,7 +63,8 @@ A comprehensive Power BI dashboard to analyze Blinkit's grocery sales data. This
 
 ## 📂 Dataset  
 **File:** BlinkIT Grocery Data.xlsx  
-[View Dataset on GitHub]([Blinkit_Grocery_Data.csv](./blinkIT%20Grocery%20Data.xlsx))  
+**Download the full dataset:** [blinkIT_Grocery_Data.csv](./BlinkIT Grocery Data.xlsx)
+
 
 ### Dataset Columns:
 - Item Fat Content  
